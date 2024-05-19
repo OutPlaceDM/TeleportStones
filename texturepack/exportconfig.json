@@ -1,9 +1,11 @@
 {
   "version": "1.0.0",
   "name": "TeleportStones for OutPlace",
-  "thumbnail_custom_model_id": 1,
   "metadata": {
-    "pack_format": 32,
-    "description": [{ "text": "§aTeleportStones §ffor §bOutPlace" }, { "text": "\n©§aDustout_DM §fand §brif223" }]
+    "format": 32,
+    "headlines": {
+      "title": "§aTeleportStones §ffor §bOutPlace",
+      "description": "©§brif223 §fand §aDustout_DM"
+    }
   }
 }
