@@ -25,8 +25,8 @@
 		},
 		{
 			"__comment": "TopBox",
-			"from": [ -0.5, 15, -0.5 ],
-			"to": [ 16.5, 32, 16.5 ],
+			"from": [ 0, 15.99, 0 ],
+			"to": [ 16.01, 32, 16.01 ],
 			"faces": {
 				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#smooth_stone" },
 				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#smooth_stone" },
@@ -39,18 +39,18 @@
 		{
 			"__comment": "ConnectionPile",
 			"from": [ 3.5, 4, 3.5 ],
-			"to": [ 12.5, 15, 12.5 ],
+			"to": [ 12.5, 16, 12.5 ],
 			"faces": {
-				"north": { "uv": [ 3.5, 1, 12.5, 12 ], "texture": "#cobble_stone" },
-				"south": { "uv": [ 3.5, 1, 12.5, 12 ], "texture": "#cobble_stone" },
-				"west": { "uv": [ 3.5, 1, 12.5, 12 ], "texture": "#cobble_stone" },
-				"east": { "uv": [ 3.5, 1, 12.5, 12 ], "texture": "#cobble_stone" }
+				"north": { "uv": [ 3.5, 0, 12.5, 12 ], "texture": "#cobble_stone" },
+				"south": { "uv": [ 3.5, 0, 12.5, 12 ], "texture": "#cobble_stone" },
+				"west": { "uv": [ 3.5, 0, 12.5, 12 ], "texture": "#cobble_stone" },
+				"east": { "uv": [ 3.5, 0, 12.5, 12 ], "texture": "#cobble_stone" }
 			}
 		},
 		{
 			"__comment": "EyeWest",
-			"from": [ -2, 19.5, 4 ],
-			"to": [ -0.5, 27.5, 12 ],
+			"from": [ -1.5, 20, 4 ],
+			"to": [ 0, 28, 12 ],
 			"faces": {
 				"down": { "uv": [ 4, 14, 12, 16 ], "texture": "#ender_eye", "rotation": 90 },
 				"up": { "uv": [ 4, 0, 12, 2 ], "texture": "#ender_eye", "rotation": 270 },
@@ -61,8 +61,8 @@
 		},
 		{
 			"__comment": "EyeEast",
-			"from": [ 16.5, 19, 4 ],
-			"to": [ 18, 27, 12 ],
+			"from": [ 16, 20, 4 ],
+			"to": [ 17.5, 28, 12 ],
 			"faces": {
 				"down": { "uv": [ 4, 14, 12, 16 ], "texture": "#ender_eye", "rotation": 270 },
 				"up": { "uv": [ 4, 0, 12, 2 ], "texture": "#ender_eye", "rotation": 90 },
@@ -73,8 +73,8 @@
 		},
 		{
 			"__comment": "EyeSouth",
-			"from": [ 4, 19, 16.5 ],
-			"to": [ 12, 27, 18 ],
+			"from": [ 4, 20, 16 ],
+			"to": [ 12, 28, 17.5 ],
 			"faces": {
 				"down": { "uv": [ 4, 14, 12, 16 ], "texture": "#ender_eye", "rotation": 180 },
 				"up": { "uv": [ 4, 0, 12, 2 ], "texture": "#ender_eye", "rotation": 180 },
@@ -85,8 +85,8 @@
 		},
 		{
 			"__comment": "EyeNorth",
-			"from": [ 4, 19, -2 ],
-			"to": [ 12, 27, -0.5 ],
+			"from": [ 4, 20, -1.5 ],
+			"to": [ 12, 28, 0 ],
 			"faces": {
 				"down": { "uv": [ 4, 14, 12, 16 ], "texture": "#ender_eye" },
 				"up": { "uv": [ 4, 0, 12, 2 ], "texture": "#ender_eye" },
