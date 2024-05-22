@@ -38,13 +38,13 @@
 		},
 		{
 			"__comment": "ConnectionPile",
-			"from": [ 4.5, 4, 4.5 ],
-			"to": [ 11.5, 15, 11.5 ],
+			"from": [ 3.5, 4, 3.5 ],
+			"to": [ 12.5, 15, 12.5 ],
 			"faces": {
-				"north": { "uv": [ 4.5, 1, 11.5, 12 ], "texture": "#cobble_stone" },
-				"south": { "uv": [ 4.5, 1, 11.5, 12 ], "texture": "#cobble_stone" },
-				"west": { "uv": [ 4.5, 1, 11.5, 12 ], "texture": "#cobble_stone" },
-				"east": { "uv": [ 4.5, 1, 11.5, 12 ], "texture": "#cobble_stone" }
+				"north": { "uv": [ 3.5, 1, 12.5, 12 ], "texture": "#cobble_stone" },
+				"south": { "uv": [ 3.5, 1, 12.5, 12 ], "texture": "#cobble_stone" },
+				"west": { "uv": [ 3.5, 1, 12.5, 12 ], "texture": "#cobble_stone" },
+				"east": { "uv": [ 3.5, 1, 12.5, 12 ], "texture": "#cobble_stone" }
 			}
 		},
 		{
