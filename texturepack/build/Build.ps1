@@ -54,5 +54,5 @@ Add-ZipedMcPack "$buildPath\**" "$exportPath" "$extensionname.zip"
 
 
 # Cleanup temp directory
-# Remove-Item -Path $buildPath -Recurse -Force
+Remove-Item -Path $buildPath -Recurse -Force
 
