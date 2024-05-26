@@ -1,0 +1,1 @@
+$execute unless data storage teleporter:gui Icons[{Icon:"$(id)"}] run data modify storage teleporter:gui Icons append value {Icon:"$(id)"}
