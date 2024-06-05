@@ -3,7 +3,7 @@ Teleport Stones by [rif223](https://github.com/rif223) and [DustdevDM](https://g
 
 # Teleport Stones
 
-is a Minecraft 1.20.6 data-pack and resourcepack that allows the use of Teleport Stones to allow quick travel between two coordinates for the low cost of one diamond.
+is a Minecraft 1.20.6 data-pack and resourcepack that allows the use of Teleport Stones to allow quick travel between two coordinates for the low cost of 10 Xp Level.
 
 ## Crafting
 
