@@ -35,4 +35,8 @@ Lastly, the data-pack must be initialized: `/function teleport:init`
 
 ---
 
+## Contributors
+
+## [![Contributors Display](https://badges.pufler.dev/contributors/OutPlaceDM/TeleportStones?size=70)](https://github.com/OutPlaceDM/TeleportStones/graphs/contributors)
+
 ![](./.readme/readmefooter.png)
