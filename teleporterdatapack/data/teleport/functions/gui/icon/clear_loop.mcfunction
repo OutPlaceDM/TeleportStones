@@ -1,1 +1,0 @@
-$function teleport:gui/icon/clear with storage teleporter:gui Icons[$(Icon_count)]

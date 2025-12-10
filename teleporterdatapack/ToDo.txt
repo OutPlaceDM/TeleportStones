@@ -1,7 +1,0 @@
-V1.1.0
-
--custom block icons ✓
--xp level ✓
--particle ✓
--playsound ✓
--custom icon names

@@ -1,0 +1,1 @@
+$data remove storage teleport:data array.$(teleporter_id)

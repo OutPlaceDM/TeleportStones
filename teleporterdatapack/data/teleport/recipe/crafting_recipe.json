@@ -1,0 +1,41 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "PSP",
+        "TTT"
+    ],
+    "key": {
+        "#": [
+            "minecraft:ender_eye"
+        ],
+        "P": [
+            "minecraft:prismarine_shard"
+        ],
+        "S": [
+            "minecraft:stone_bricks"
+        ],
+        "T": [
+            "minecraft:smooth_stone"
+        ]
+    },
+    "result": {
+        "id": "minecraft:item_frame",
+        "count": 1,
+        "components": {
+            "custom_name": "{\"text\":\"Teleporter\",\"color\":\"green\"}",
+            "custom_model_data": {
+                "strings": [
+                    "teleporter"
+                ]
+            },
+            "entity_data": {
+                "id": "minecraft:item_frame",
+                "Invisible": true,
+                "Tags": [
+                    "teleporter_model"
+                ]
+            }
+        }
+    }
+}

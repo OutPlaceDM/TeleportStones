@@ -1,0 +1,2 @@
+$execute as @e[type=minecraft:text_display,tag=teleporter_name,distance=..1] run data modify entity @s text.text set from storage teleport:data array.$(teleporter_id).name
+$execute as @e[type=minecraft:text_display,tag=teleporter_name,distance=..1] run data modify entity @s text.color set from storage teleport:data array.$(teleporter_id).hex_color

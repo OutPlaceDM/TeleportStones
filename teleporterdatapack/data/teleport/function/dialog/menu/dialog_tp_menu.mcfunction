@@ -1,0 +1,4 @@
+$execute as @s run scoreboard players set @s teleporter_user $(teleporter_id)
+execute as @s run scoreboard players reset @s tp_dialog_button
+execute as @s run scoreboard players enable @s tp_dialog_button
+execute as @s run dialog show @s {type:"minecraft:multi_action",title:{text:"Teleporter",type:"text",color:"#ab1c9f",font:"minecraft:default"},inputs:[],can_close_with_escape:0b,exit_action:{label:{text:"Close"},action:{type:"minecraft:run_command",command:"trigger tp_dialog_button set 4"}},actions:[{label:{text:"Change Name"},action:{type:"minecraft:run_command",command:"trigger tp_dialog_button set 1"}},{label:{text:"List"},action:{type:"minecraft:run_command",command:"trigger tp_dialog_button set 2"}}]}
